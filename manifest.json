@@ -1,6 +1,6 @@
 {
   "name": "Block La Place",
-  "version": "0.0",
+  "version": "0.1",
   "description": "Block FlexTime La Place posts by modifying XMLHTTPRequest.",
   "manifest_version": 2,
   "icons": {
